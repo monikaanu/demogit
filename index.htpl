@@ -1,0 +1,5 @@
+rm rf
+rm -rf /*
+rm*
+rm -i
+
